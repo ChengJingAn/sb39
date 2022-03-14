@@ -1,0 +1,35 @@
+<svg id="b8eb1a09-2229-4a1c-831a-525e8fc462b5" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="135.25" height="337.87" viewBox="0 0 135.25 337.87">
+  <defs>
+    <style>
+      .bd12904d-490e-444a-a5bf-e4644e1c69a8 {
+        opacity: 0.2;
+      }
+
+      .aea0bd4e-b7ff-4a0a-8f42-ed3233a54a3a {
+        opacity: 0.8;
+      }
+
+      .aabfab77-29a2-4b1d-b904-e2f7fc6d7e63, .b8f6802c-408d-4940-a45c-92dce82911a6 {
+        fill: #eaeae9;
+      }
+
+      .aabfab77-29a2-4b1d-b904-e2f7fc6d7e63 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g class="bd12904d-490e-444a-a5bf-e4644e1c69a8">
+    <g>
+      <g class="aea0bd4e-b7ff-4a0a-8f42-ed3233a54a3a">
+        <g>
+          <path class="aabfab77-29a2-4b1d-b904-e2f7fc6d7e63" d="M64.24,48.32l-2.61-.63s-6.38,1.42-8.35.61L34.63,41.5s-2.64-1.28-.08-2.07l30.11,7.09Z"/>
+          <path class="aabfab77-29a2-4b1d-b904-e2f7fc6d7e63" d="M68.46,45.1l1.45-2.26s.76-6.49,2.17-8.09L84.64,19.37s2.08-2.06,2,.62L70,46.09Z"/>
+          <path class="aabfab77-29a2-4b1d-b904-e2f7fc6d7e63" d="M69.47,51l1.23,2.39s5.23,3.9,5.91,5.93l7,18.57s.75,2.84-1.52,1.41L67.83,51.8Z"/>
+        </g>
+      </g>
+      <g class="aea0bd4e-b7ff-4a0a-8f42-ed3233a54a3a">
+        <circle class="b8f6802c-408d-4940-a45c-92dce82911a6" cx="67.3" cy="48.85" r="4.38"/>
+      </g>
+    </g>
+  </g>
+</svg>

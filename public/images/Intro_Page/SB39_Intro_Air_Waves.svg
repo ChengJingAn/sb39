@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .aae72a4f-6980-4532-a72c-b2ce48ec1575 {
+        fill: none;
+      }
+
+      .ae488e70-cde0-40d7-8334-21cf20e39c65 {
+        isolation: isolate;
+      }
+
+      .ab89dbec-f952-450c-8718-bd62b9044ad9 {
+        clip-path: url(#b3d98261-b95c-49fe-97f6-f0365d2bb008);
+      }
+
+      .e50ca62b-9703-494e-a31c-63f0f785ebf2 {
+        clip-path: url(#b2e17feb-6503-4080-863b-79263bc72aad);
+      }
+
+      .e659335c-1646-4921-a24a-91cfd6134cb6 {
+        opacity: 0.53;
+      }
+
+      .be35a1ac-f8b1-4957-a09f-f05ff6eec442 {
+        fill: #dfe8eb;
+        mix-blend-mode: screen;
+        opacity: 0.3;
+      }
+    </style>
+    <clipPath id="b3d98261-b95c-49fe-97f6-f0365d2bb008">
+      <rect class="aae72a4f-6980-4532-a72c-b2ce48ec1575" width="1600" height="900"/>
+    </clipPath>
+    <clipPath id="b2e17feb-6503-4080-863b-79263bc72aad">
+      <rect class="aae72a4f-6980-4532-a72c-b2ce48ec1575" x="-33.33" y="-151.51" width="1648.15" height="1138.11"/>
+    </clipPath>
+  </defs>
+  <g class="ae488e70-cde0-40d7-8334-21cf20e39c65">
+    <g id="eb8e2494-24c3-42f1-857d-e3ace668ee46" data-name="Layer 1">
+      <g class="ab89dbec-f952-450c-8718-bd62b9044ad9">
+        <g>
+          <g class="e50ca62b-9703-494e-a31c-63f0f785ebf2">
+            <g class="e659335c-1646-4921-a24a-91cfd6134cb6">
+              <path class="be35a1ac-f8b1-4957-a09f-f05ff6eec442" d="M-33.33,568.08v39s874.93,1.41,1114.12-11.85C1290.27,583.64,385.44,572.51-33.33,568.08Z"/>
+              <path class="be35a1ac-f8b1-4957-a09f-f05ff6eec442" d="M-33.33,675.39v61.7l1648.14-7.69V674.74C1346.89,672.44,91.14,665.27-33.33,675.39Z"/>
+              <path class="be35a1ac-f8b1-4957-a09f-f05ff6eec442" d="M1614.81,741.74v39S410.25,782.19,171.06,768.92C-38.42,757.3,1196,746.17,1614.81,741.74Z"/>
+            </g>
+          </g>
+          <rect class="aae72a4f-6980-4532-a72c-b2ce48ec1575" width="1600" height="900"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<svg id="e322e700-18a6-4fdd-827f-c9d6e1dad4b2" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="462.9" height="482.5" viewBox="0 0 462.9 482.5">
+  <defs>
+    <style>
+      .e3e794ca-16e0-493c-a8da-c6400344801c {
+        fill: none;
+      }
+
+      .a60fc23d-038c-4408-9530-3e87807b808c {
+        opacity: 0.5;
+      }
+
+      .a2e34c6d-5a4c-413f-a68f-252dcd04f5fd {
+        fill: url(#e487ecc6-f041-478a-b6f4-5cb81028b7f1);
+      }
+
+      .a2c07ff6-dec6-4090-8423-a9bb3190fd0d {
+        fill: #31d0e5;
+        stroke-width: 6px;
+        stroke: url(#a6ac8aa8-0826-4405-9371-4749aa8cc616);
+      }
+
+      .a2c07ff6-dec6-4090-8423-a9bb3190fd0d, .a74ad960-5cbe-44f0-9cba-1ca45a800bdc, .aa96c4c6-5191-4056-b0f4-0010f76202aa, .f3c51c4b-a146-4a6b-8911-7cbd928ce766 {
+        stroke-miterlimit: 10;
+      }
+
+      .beeabd44-0e96-460c-8f17-a37c1355ae25 {
+        clip-path: url(#bd3e34d8-42d2-47e9-a975-e5b14995fb46);
+      }
+
+      .a74ad960-5cbe-44f0-9cba-1ca45a800bdc {
+        fill: #dfe2dc;
+        stroke: #a0a0a0;
+      }
+
+      .aa96c4c6-5191-4056-b0f4-0010f76202aa {
+        fill: #fafef6;
+        stroke: #848484;
+      }
+
+      .f3c51c4b-a146-4a6b-8911-7cbd928ce766 {
+        fill: #cbcfc7;
+        stroke: #939393;
+      }
+
+      .bc0fc670-e9fe-4627-b533-57eb0f826668 {
+        opacity: 0.42;
+      }
+
+      .a19ac567-103d-4df5-8f45-de47c286bfb4 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="e487ecc6-f041-478a-b6f4-5cb81028b7f1" x1="52.73" y1="118.79" x2="402" y2="358.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9b81cf"/>
+      <stop offset="1" stop-color="#3b139b"/>
+    </linearGradient>
+    <linearGradient id="a6ac8aa8-0826-4405-9371-4749aa8cc616" x1="25.67" y1="241.25" x2="437.24" y2="241.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4c1da9"/>
+      <stop offset="1" stop-color="#997ece"/>
+    </linearGradient>
+    <clipPath id="bd3e34d8-42d2-47e9-a975-e5b14995fb46">
+      <circle class="e3e794ca-16e0-493c-a8da-c6400344801c" cx="235.46" cy="243.57" r="209.22"/>
+    </clipPath>
+  </defs>
+  <g>
+    <path class="a60fc23d-038c-4408-9530-3e87807b808c" d="M444.68,252.5a208.28,208.28,0,0,0-25.42-100,211.66,211.66,0,0,0-187.81-114c-116.9,0-211.67,94.78-211.67,211.68s94.77,211.68,211.67,211.68c3,0,5.93-.08,8.87-.2C353.63,459.07,444.68,366.42,444.68,252.5Z"/>
+    <g>
+      <g>
+        <circle class="a2e34c6d-5a4c-413f-a68f-252dcd04f5fd" cx="231.45" cy="241.25" r="211.68"/>
+        <circle class="a2c07ff6-dec6-4090-8423-a9bb3190fd0d" cx="231.45" cy="241.25" r="202.78"/>
+      </g>
+      <g class="beeabd44-0e96-460c-8f17-a37c1355ae25">
+        <g>
+          <g>
+            <line class="a74ad960-5cbe-44f0-9cba-1ca45a800bdc" x1="181.02" y1="382" x2="276.19" y2="301.89"/>
+            <line class="a74ad960-5cbe-44f0-9cba-1ca45a800bdc" x1="103.99" y1="342.7" x2="179.22" y2="292.93"/>
+            <line class="a74ad960-5cbe-44f0-9cba-1ca45a800bdc" x1="146.49" y1="358.01" x2="221.45" y2="304.46"/>
+          </g>
+          <g>
+            <g>
+              <path class="aa96c4c6-5191-4056-b0f4-0010f76202aa" d="M365.61,121.11l-283.3,143,85.1,3.08L356.07,129.63,198.64,270.22l87.71,31.69Zm0,0"/>
+              <path class="a74ad960-5cbe-44f0-9cba-1ca45a800bdc" d="M198.64,270.22l-2.89,43.84-28.34-46.9L356.07,129.63Zm0,0"/>
+              <path class="f3c51c4b-a146-4a6b-8911-7cbd928ce766" d="M195.75,314.06l38.54-30.65-35.65-13.19Zm0,0"/>
+            </g>
+            <g class="bc0fc670-e9fe-4627-b533-57eb0f826668">
+              <g>
+                <path class="a19ac567-103d-4df5-8f45-de47c286bfb4" d="M112.29,131.77s5.55-25.91,34.32-6.51S119.41,146.83,94,142.12,112.29,131.77,112.29,131.77Z"/>
+                <path class="a19ac567-103d-4df5-8f45-de47c286bfb4" d="M167.34,109.38c24,12.16,2.3,17.44-17.77,16.29S143.29,97.22,167.34,109.38Z"/>
+              </g>
+              <g>
+                <path class="a19ac567-103d-4df5-8f45-de47c286bfb4" d="M328.92,279.25s5.55-25.91,34.32-6.52-27.2,21.58-52.62,16.86S328.92,279.25,328.92,279.25Z"/>
+                <path class="a19ac567-103d-4df5-8f45-de47c286bfb4" d="M384,256.85c24.06,12.16,2.31,17.45-17.76,16.3S359.92,244.7,384,256.85Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

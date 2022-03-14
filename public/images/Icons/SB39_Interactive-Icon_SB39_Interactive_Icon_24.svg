@@ -1,0 +1,35 @@
+<svg id="bcdbb12b-b360-4500-a4f6-c17cd4515a3b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="462.9" height="482.5" viewBox="0 0 462.9 482.5">
+  <defs>
+    <style>
+      .a3a07f59-f51c-479b-9d5e-316ffff520be {
+        opacity: 0.5;
+      }
+
+      .b688cf12-4220-42bc-80cc-401be1c6903d {
+        fill: url(#a52fb619-675e-4815-b0cd-2803d2e0c333);
+      }
+
+      .b01f2987-d800-4ee7-a00f-fe4f3573be09 {
+        fill: #31d0e5;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+        stroke: url(#bf19084e-0eba-4527-b935-599981715c80);
+      }
+    </style>
+    <linearGradient id="a52fb619-675e-4815-b0cd-2803d2e0c333" x1="52.73" y1="118.79" x2="402" y2="358.11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9b81cf"/>
+      <stop offset="1" stop-color="#3b139b"/>
+    </linearGradient>
+    <linearGradient id="bf19084e-0eba-4527-b935-599981715c80" x1="25.67" y1="241.25" x2="437.24" y2="241.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4c1da9"/>
+      <stop offset="1" stop-color="#997ece"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="a3a07f59-f51c-479b-9d5e-316ffff520be" d="M444.68,252.5a208.28,208.28,0,0,0-25.42-100,211.66,211.66,0,0,0-187.81-114c-116.9,0-211.67,94.78-211.67,211.68s94.77,211.68,211.67,211.68c3,0,5.93-.08,8.87-.2C353.63,459.07,444.68,366.42,444.68,252.5Z"/>
+    <g>
+      <circle class="b688cf12-4220-42bc-80cc-401be1c6903d" cx="231.45" cy="241.25" r="211.68"/>
+      <circle class="b01f2987-d800-4ee7-a00f-fe4f3573be09" cx="231.45" cy="241.25" r="202.78"/>
+    </g>
+  </g>
+</svg>

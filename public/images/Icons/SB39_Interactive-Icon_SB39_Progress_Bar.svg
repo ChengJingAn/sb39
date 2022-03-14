@@ -1,0 +1,31 @@
+<svg id="f38662c7-d9d5-4a72-a713-bb94d2191759" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="287" height="63" viewBox="0 0 287 63">
+  <defs>
+    <style>
+      .a580ff83-5f5e-45a6-91a5-20ccecaf84b2 {
+        fill: none;
+      }
+
+      .ebf0549d-f58b-497c-983e-0365745f9309 {
+        clip-path: url(#bc5110e7-6584-4885-816d-91fdfc5c6ac1);
+      }
+
+      .e0828e6e-72bc-4613-98b2-b078495ad675 {
+        fill: #472813;
+      }
+
+      .bcf0e65c-51d5-451a-b1a4-e5db6a826e87 {
+        fill: #934612;
+        stroke: #e06817;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="bc5110e7-6584-4885-816d-91fdfc5c6ac1">
+      <circle class="a580ff83-5f5e-45a6-91a5-20ccecaf84b2" cx="-355" cy="305.5" r="286.21"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect class="e0828e6e-72bc-4613-98b2-b078495ad675" x="4.12" y="7.99" width="278.76" height="52.1" rx="23.49"/>
+    <rect class="bcf0e65c-51d5-451a-b1a4-e5db6a826e87" x="4.12" y="2.91" width="278.76" height="52.1" rx="23.49"/>
+  </g>
+</svg>

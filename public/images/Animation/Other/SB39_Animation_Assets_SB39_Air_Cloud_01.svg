@@ -1,0 +1,31 @@
+<svg id="bc8a162c-3360-494d-a3c1-67c76acf8245" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="259" height="78" viewBox="0 0 259 78">
+  <defs>
+    <style>
+      .adb91a9f-4605-4bea-8d9e-917d7eb52440 {
+        opacity: 0.67;
+      }
+
+      .b668facf-0958-4970-9ee2-017de8acb12a {
+        fill: url(#e5157211-7315-4c74-8b76-81affe41244b);
+      }
+
+      .ea81c850-4481-492d-85f7-de34af85fac4 {
+        fill: url(#a09f06fa-8e0a-4d47-815c-eba2e13b468c);
+      }
+    </style>
+    <linearGradient id="e5157211-7315-4c74-8b76-81affe41244b" x1="148.04" y1="100.39" x2="224.56" y2="23.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15" stop-color="#82cdd9"/>
+      <stop offset="0.82" stop-color="#d7eef4"/>
+    </linearGradient>
+    <linearGradient id="a09f06fa-8e0a-4d47-815c-eba2e13b468c" x1="138.37" y1="-145.58" x2="260.07" y2="-267.37" gradientTransform="matrix(1.05, -0.1, 0.07, 0.8, -75.75, 237.02)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.4" stop-color="#adcff1"/>
+      <stop offset="0.51" stop-color="#b9d9f5"/>
+      <stop offset="0.8" stop-color="#d2f0fc"/>
+      <stop offset="0.98" stop-color="#dbf8ff"/>
+    </linearGradient>
+  </defs>
+  <g class="adb91a9f-4605-4bea-8d9e-917d7eb52440">
+    <path class="b668facf-0958-4970-9ee2-017de8acb12a" d="M144,56.25s1.67-7.47,22.83-12.59,39-7.86,57.34-2S238.61,61,234.71,62.54c-7.57,3.06-23.86,7.07-67.36,3.15C141.18,63.33,144,56.25,144,56.25Z"/>
+    <path class="ea81c850-4481-492d-85f7-de34af85fac4" d="M50.6,46s5.8-16.41,46.16-26.16,66.63-14.56,89.08,1.12,11.09,42.16-4.78,45.52-81.93,6.28-121.7-4.18C59.36,62.25,45.17,57.43,50.6,46Z"/>
+  </g>
+</svg>
