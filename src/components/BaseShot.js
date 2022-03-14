@@ -48,7 +48,7 @@ yeahAudio.volume = 0.3
 clapAudio.volume = 0.4
 buzzAudio.volume = 0.5
 isGameStarted = true;
-backAudio.volume = 0.1
+backAudio.volume = 0.14
 windAudio.loop = true
 
 var isOff = false;
